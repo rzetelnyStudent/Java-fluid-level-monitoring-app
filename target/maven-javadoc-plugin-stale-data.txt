@@ -1,0 +1,65 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Michal_Kapuscinski_FluidLevelMonitoring prototype API'
+-use
+-version
+-windowtitle
+'Michal_Kapuscinski_FluidLevelMonitoring prototype API'
+pl.polsl.controller
+pl.polsl.FluidLevelMonitoring
+pl.polsl.model
+pl.polsl.view
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/controller/package-info.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/controller/RandomButtonListener.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/controller/SetIn1ButtonListener.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/controller/SetIn2ButtonListener.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/controller/SetOutButtonListener.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/controller/SetRadiusButtonListener.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/controller/TankController.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/controller/TypedButtonListener.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/FluidLevelMonitoring/FluidLevelMonitoring.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/FluidLevelMonitoring/package-info.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/model/InvalidArgumentException.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/model/package-info.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/model/TankModel.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/view/package-info.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/view/TankView.java'
+'C:/Users/alert/OneDrive/Dokumenty/NetBeansProjects/Michal_Kapuscinski_FluidLevelMonitoring/src/main/java/pl/polsl/view/ToggleSwitch.java'
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\src\main\java = 1666944919840
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\allclasses-index.html = 1669029268294
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\allpackages-index.html = 1669029268331
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\constant-values.html = 1669029267622
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\element-list = 1669029267456
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\help-doc.html = 1669029268428
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\index-all.html = 1669029268415
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\index.html = 1669029268261
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\jquery-ui.overrides.css = 1669029268874
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\member-search-index.js = 1669029268344
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\module-search-index.js = 1669029268334
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\overview-summary.html = 1669029268421
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\overview-tree.html = 1669029268253
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\package-search-index.js = 1669029268338
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\script.js = 1669029268488
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\search.js = 1669029268495
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\serialized-form.html = 1669029267706
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\stylesheet.css = 1669029268450
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\tag-search-index.js = 1669029268346
+C:\Users\alert\OneDrive\Dokumenty\NetBeansProjects\Michal_Kapuscinski_FluidLevelMonitoring\target\site\apidocs\type-search-index.js = 1669029268341
